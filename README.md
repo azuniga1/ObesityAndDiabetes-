@@ -10,6 +10,12 @@ Diabetes is a disease that occurs when your blood glucose, also called blood sug
 * What are the bottom 10 states with Diabetes/Obesity
 * Do States with higher Diabetes Rates  also have Higher Obesity Rates
 
+## Technology used
+* Anaconda 
+* Jupyter NoteBook
+* Python/Pandas
+* Tableau
+
 ## Process
 ### Datasets
 For Obesity dataset I used 6 difffent csv files from 2011-2016 downloaded from the CDC website\
@@ -29,6 +35,7 @@ obesity_files
 ![Img from file](Images/output1.png)
 
 ```python
+# Concat all files  by using pd.concat() and asssign() methods
 obesity_2011_to_2016 = pd.concat((pd.read_csv(file).assign(filename = file)
           for file in obesity_files), ignore_index = True)
 obesity_2011_to_2016.head()
