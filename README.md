@@ -11,6 +11,12 @@ Diabetes is a disease that occurs when your blood glucose, also called blood sug
 * Do States with higher Diabetes %  also have Higher Obesity %
 
 ## Process
+### Datasets
+For Obesity dataset I used 6 difffent csv from 2011-2016 downloaded from the CDC website\
+For Diabetes dataset I used 6 diffrent csv files from 2011-2016 downloaded from the CDC website
+
+
+
 
 
 
