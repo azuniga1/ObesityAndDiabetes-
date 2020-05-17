@@ -8,13 +8,19 @@ Diabetes is a disease that occurs when your blood glucose, also called blood sug
 * Has Obesity % Increaed in the US
 * What are the top 10 states with Diabetes/Obesity
 * What are the bottom 10 states with Diabetes/Obesity
-* Do States with higher Diabetes Rates  also have Higher Obesity Rate
+* Do States with higher Diabetes Rates  also have Higher Obesity Rates
 
 ## Process
 ### Datasets
 For Obesity dataset I used 6 difffent csv files from 2011-2016 downloaded from the CDC website\
 For Diabetes dataset I used 6 diffrent csv files files from 2011-2016 downloaded from the CDC website
 
+### Data Cleaning
+For data cleaning I used Jupyter Notebook
+```python
+import pandas as pd
+from glob import glob
+```
 
 
 
