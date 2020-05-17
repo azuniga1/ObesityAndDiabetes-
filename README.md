@@ -25,8 +25,8 @@ from glob import glob
 # use glob() to list all files that match a pattern 
 obesity_files = sorted(glob('Resources/*-Obesity.csv'))
 obesity_files
-
 ```
+![Img from file](Images/output1.png)
 
 
 
