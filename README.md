@@ -18,8 +18,14 @@ For Diabetes dataset I used 6 diffrent csv files files from 2011-2016 downloaded
 ### Data Cleaning
 For data cleaning I used Jupyter Notebook
 ```python
+# Dependencies
 import pandas as pd
 from glob import glob
+
+# use glob() to list all files that match a pattern 
+obesity_files = sorted(glob('Resources/*-Obesity.csv'))
+obesity_files
+
 ```
 
 
