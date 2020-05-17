@@ -1,0 +1,321 @@
+ID,YearStart,LocationAbbr,LocationDesc,Question,Data_Value,GeoLocation_Lat,GeoLocation_Long
+671,2011,US,National,Percent of adults aged 18 years and older who have obesity †,27.4,,
+2279,2011,AL,Alabama,Percent of adults aged 18 years and older who have obesity †,32.0,32.84057112,-86.63186076
+21294,2011,AK,Alaska,Percent of adults aged 18 years and older who have obesity †,27.4,64.84507996,-147.722059
+24644,2011,AZ,Arizona,Percent of adults aged 18 years and older who have obesity †,25.1,34.86597028,-111.76381129999999
+13264,2011,AR,Arkansas,Percent of adults aged 18 years and older who have obesity †,30.9,34.74865012,-92.27449074
+26780,2011,CA,California,Percent of adults aged 18 years and older who have obesity †,23.8,37.63864012,-120.99999950000002
+21908,2011,CO,Colorado,Percent of adults aged 18 years and older who have obesity †,20.7,38.84384076,-106.13361090000002
+36642,2011,CT,Connecticut,Percent of adults aged 18 years and older who have obesity †,24.5,41.56266102,-72.64984095
+8600,2011,DE,Delaware,Percent of adults aged 18 years and older who have obesity †,28.8,39.00883067,-75.57774117
+27392,2011,DC,District of Columbia,Percent of adults aged 18 years and older who have obesity †,23.7,38.89037139,-77.03196113
+16906,2011,FL,Florida,Percent of adults aged 18 years and older who have obesity †,26.6,28.93204038,-81.92896054
+22677,2011,GA,Georgia,Percent of adults aged 18 years and older who have obesity †,28.0,32.83968109,-83.62758035
+33148,2011,HI,Hawaii,Percent of adults aged 18 years and older who have obesity †,21.8,21.30485044,-157.8577494
+7081,2011,ID,Idaho,Percent of adults aged 18 years and older who have obesity †,27.0,43.68263001,-114.36373
+21933,2011,IL,Illinois,Percent of adults aged 18 years and older who have obesity †,27.1,40.48501028,-88.99771018
+9566,2011,IN,Indiana,Percent of adults aged 18 years and older who have obesity †,30.8,39.76691045,-86.14996019
+25608,2011,IA,Iowa,Percent of adults aged 18 years and older who have obesity †,29.0,42.46940091,-93.81649056
+31921,2011,KS,Kansas,Percent of adults aged 18 years and older who have obesity †,29.6,38.3477403,-98.20078123
+29505,2011,KY,Kentucky,Percent of adults aged 18 years and older who have obesity †,30.4,37.64597027,-84.77497105
+34571,2011,LA,Louisiana,Percent of adults aged 18 years and older who have obesity †,33.4,31.31266064,-92.44568007
+19185,2011,ME,Maine,Percent of adults aged 18 years and older who have obesity †,27.8,45.25422889,-68.98503134
+2617,2011,MD,Maryland,Percent of adults aged 18 years and older who have obesity †,28.3,39.29058096,-76.60926011
+22132,2011,MA,Massachusetts,Percent of adults aged 18 years and older who have obesity †,22.7,42.27687047,-72.08269068
+3937,2011,MI,Michigan,Percent of adults aged 18 years and older who have obesity †,31.3,44.66131954,-84.71439027
+11295,2011,MN,Minnesota,Percent of adults aged 18 years and older who have obesity †,25.7,46.35564874,-94.7942005
+30811,2011,MS,Mississippi,Percent of adults aged 18 years and older who have obesity †,34.9,32.745510100000004,-89.53803083
+39115,2011,MO,Missouri,Percent of adults aged 18 years and older who have obesity †,30.3,38.63579078,-92.56630005
+35295,2011,MT,Montana,Percent of adults aged 18 years and older who have obesity †,24.6,47.06652897,-109.4244206
+7583,2011,NE,Nebraska,Percent of adults aged 18 years and older who have obesity †,28.4,41.64104099,-99.36572062
+20551,2011,NV,Nevada,Percent of adults aged 18 years and older who have obesity †,24.5,39.49324039,-117.0718406
+32746,2011,NH,New Hampshire,Percent of adults aged 18 years and older who have obesity †,26.2,43.65595011,-71.50036092
+25331,2011,NJ,New Jersey,Percent of adults aged 18 years and older who have obesity †,23.7,40.13057005,-74.27369129
+34472,2011,NM,New Mexico,Percent of adults aged 18 years and older who have obesity †,26.3,34.52088095,-106.240581
+10456,2011,NY,New York,Percent of adults aged 18 years and older who have obesity †,24.5,42.82700103,-75.54397043
+26625,2011,NC,North Carolina,Percent of adults aged 18 years and older who have obesity †,29.1,35.46622098,-79.15925046
+19329,2011,ND,North Dakota,Percent of adults aged 18 years and older who have obesity †,27.8,47.47531978,-100.118421
+30170,2011,OH,Ohio,Percent of adults aged 18 years and older who have obesity †,29.6,40.06021014,-82.40426006
+26863,2011,OK,Oklahoma,Percent of adults aged 18 years and older who have obesity †,31.1,35.47203136,-97.52107021
+20839,2011,OR,Oregon,Percent of adults aged 18 years and older who have obesity †,26.7,44.56744942,-120.1550313
+35151,2011,PA,Pennsylvania,Percent of adults aged 18 years and older who have obesity †,28.6,40.79373015,-77.86070029
+4410,2011,RI,Rhode Island,Percent of adults aged 18 years and older who have obesity †,25.4,41.70828019,-71.52247031
+12150,2011,SC,South Carolina,Percent of adults aged 18 years and older who have obesity †,30.8,33.998821299999996,-81.04537121
+7416,2011,SD,South Dakota,Percent of adults aged 18 years and older who have obesity †,28.1,44.35313005,-100.3735306
+3871,2011,TN,Tennessee,Percent of adults aged 18 years and older who have obesity †,29.2,35.68094058,-85.77449091
+33109,2011,TX,Texas,Percent of adults aged 18 years and older who have obesity †,30.4,31.82724041,-99.42677021
+36617,2011,UT,Utah,Percent of adults aged 18 years and older who have obesity †,24.4,39.36070017,-111.58713059999998
+12465,2011,VT,Vermont,Percent of adults aged 18 years and older who have obesity †,25.4,43.62538124,-72.51764079
+23634,2011,VA,Virginia,Percent of adults aged 18 years and older who have obesity †,29.2,37.54268067,-78.45789046
+5904,2011,WA,Washington,Percent of adults aged 18 years and older who have obesity †,26.5,47.52227863,-120.4700108
+33119,2011,WV,West Virginia,Percent of adults aged 18 years and older who have obesity †,32.4,38.6655102,-80.71264014
+13960,2011,WI,Wisconsin,Percent of adults aged 18 years and older who have obesity †,27.7,44.39319117,-89.81637074
+7665,2011,WY,Wyoming,Percent of adults aged 18 years and older who have obesity †,25.0,43.23554134,-108.1098304
+1023,2012,US,National,Percent of adults aged 18 years and older who have obesity †,27.7,,
+3032,2012,AL,Alabama,Percent of adults aged 18 years and older who have obesity †,33.0,32.84057112,-86.63186076
+7782,2012,AK,Alaska,Percent of adults aged 18 years and older who have obesity †,25.7,64.84507996,-147.722059
+14306,2012,AZ,Arizona,Percent of adults aged 18 years and older who have obesity †,26.0,34.86597028,-111.76381129999999
+19299,2012,AR,Arkansas,Percent of adults aged 18 years and older who have obesity †,34.5,34.74865012,-92.27449074
+18078,2012,CA,California,Percent of adults aged 18 years and older who have obesity †,25.0,37.63864012,-120.99999950000002
+22278,2012,CO,Colorado,Percent of adults aged 18 years and older who have obesity †,20.5,38.84384076,-106.13361090000002
+36585,2012,CT,Connecticut,Percent of adults aged 18 years and older who have obesity †,25.6,41.56266102,-72.64984095
+2504,2012,DE,Delaware,Percent of adults aged 18 years and older who have obesity †,26.9,39.00883067,-75.57774117
+21124,2012,DC,District of Columbia,Percent of adults aged 18 years and older who have obesity †,21.9,38.89037139,-77.03196113
+29744,2012,FL,Florida,Percent of adults aged 18 years and older who have obesity †,25.2,28.93204038,-81.92896054
+9071,2012,GA,Georgia,Percent of adults aged 18 years and older who have obesity †,29.1,32.83968109,-83.62758035
+5106,2012,HI,Hawaii,Percent of adults aged 18 years and older who have obesity †,23.6,21.30485044,-157.8577494
+15294,2012,ID,Idaho,Percent of adults aged 18 years and older who have obesity †,26.8,43.68263001,-114.36373
+32483,2012,IL,Illinois,Percent of adults aged 18 years and older who have obesity †,28.1,40.48501028,-88.99771018
+32401,2012,IN,Indiana,Percent of adults aged 18 years and older who have obesity †,31.4,39.76691045,-86.14996019
+26989,2012,IA,Iowa,Percent of adults aged 18 years and older who have obesity †,30.4,42.46940091,-93.81649056
+22783,2012,KS,Kansas,Percent of adults aged 18 years and older who have obesity †,29.8,38.3477403,-98.20078123
+10710,2012,KY,Kentucky,Percent of adults aged 18 years and older who have obesity †,31.3,37.64597027,-84.77497105
+38939,2012,LA,Louisiana,Percent of adults aged 18 years and older who have obesity †,34.7,31.31266064,-92.44568007
+5407,2012,ME,Maine,Percent of adults aged 18 years and older who have obesity †,28.3,45.25422889,-68.98503134
+36543,2012,MD,Maryland,Percent of adults aged 18 years and older who have obesity †,27.6,39.29058096,-76.60926011
+35157,2012,MA,Massachusetts,Percent of adults aged 18 years and older who have obesity †,22.9,42.27687047,-72.08269068
+20169,2012,MI,Michigan,Percent of adults aged 18 years and older who have obesity †,31.1,44.66131954,-84.71439027
+7304,2012,MN,Minnesota,Percent of adults aged 18 years and older who have obesity †,25.7,46.35564874,-94.7942005
+2896,2012,MS,Mississippi,Percent of adults aged 18 years and older who have obesity †,34.6,32.745510100000004,-89.53803083
+2723,2012,MO,Missouri,Percent of adults aged 18 years and older who have obesity †,29.6,38.63579078,-92.56630005
+9180,2012,MT,Montana,Percent of adults aged 18 years and older who have obesity †,24.3,47.06652897,-109.4244206
+20730,2012,NE,Nebraska,Percent of adults aged 18 years and older who have obesity †,28.6,41.64104099,-99.36572062
+35732,2012,NV,Nevada,Percent of adults aged 18 years and older who have obesity †,26.2,39.49324039,-117.0718406
+21884,2012,NH,New Hampshire,Percent of adults aged 18 years and older who have obesity †,27.3,43.65595011,-71.50036092
+10479,2012,NJ,New Jersey,Percent of adults aged 18 years and older who have obesity †,24.6,40.13057005,-74.27369129
+39467,2012,NM,New Mexico,Percent of adults aged 18 years and older who have obesity †,27.1,34.52088095,-106.240581
+26519,2012,NY,New York,Percent of adults aged 18 years and older who have obesity †,23.6,42.82700103,-75.54397043
+37218,2012,NC,North Carolina,Percent of adults aged 18 years and older who have obesity †,29.6,35.46622098,-79.15925046
+12675,2012,ND,North Dakota,Percent of adults aged 18 years and older who have obesity †,29.7,47.47531978,-100.118421
+22024,2012,OH,Ohio,Percent of adults aged 18 years and older who have obesity †,30.1,40.06021014,-82.40426006
+32723,2012,OK,Oklahoma,Percent of adults aged 18 years and older who have obesity †,32.2,35.47203136,-97.52107021
+17016,2012,OR,Oregon,Percent of adults aged 18 years and older who have obesity †,27.3,44.56744942,-120.1550313
+22952,2012,PA,Pennsylvania,Percent of adults aged 18 years and older who have obesity †,29.1,40.79373015,-77.86070029
+13335,2012,RI,Rhode Island,Percent of adults aged 18 years and older who have obesity †,25.7,41.70828019,-71.52247031
+4455,2012,SC,South Carolina,Percent of adults aged 18 years and older who have obesity †,31.6,33.998821299999996,-81.04537121
+15759,2012,SD,South Dakota,Percent of adults aged 18 years and older who have obesity †,28.1,44.35313005,-100.3735306
+13416,2012,TN,Tennessee,Percent of adults aged 18 years and older who have obesity †,31.1,35.68094058,-85.77449091
+19921,2012,TX,Texas,Percent of adults aged 18 years and older who have obesity †,29.2,31.82724041,-99.42677021
+25376,2012,UT,Utah,Percent of adults aged 18 years and older who have obesity †,24.3,39.36070017,-111.58713059999998
+22018,2012,VT,Vermont,Percent of adults aged 18 years and older who have obesity †,23.7,43.62538124,-72.51764079
+16677,2012,VA,Virginia,Percent of adults aged 18 years and older who have obesity †,27.4,37.54268067,-78.45789046
+2610,2012,WA,Washington,Percent of adults aged 18 years and older who have obesity †,26.8,47.52227863,-120.4700108
+13355,2012,WV,West Virginia,Percent of adults aged 18 years and older who have obesity †,33.8,38.6655102,-80.71264014
+28592,2012,WI,Wisconsin,Percent of adults aged 18 years and older who have obesity †,29.7,44.39319117,-89.81637074
+17861,2012,WY,Wyoming,Percent of adults aged 18 years and older who have obesity †,24.6,43.23554134,-108.1098304
+219,2013,US,National,Percent of adults aged 18 years and older who have obesity †,28.3,,
+23013,2013,AL,Alabama,Percent of adults aged 18 years and older who have obesity †,32.4,32.84057112,-86.63186076
+29605,2013,AK,Alaska,Percent of adults aged 18 years and older who have obesity †,28.4,64.84507996,-147.722059
+11195,2013,AZ,Arizona,Percent of adults aged 18 years and older who have obesity †,26.8,34.86597028,-111.76381129999999
+11194,2013,AR,Arkansas,Percent of adults aged 18 years and older who have obesity †,34.6,34.74865012,-92.27449074
+25052,2013,CA,California,Percent of adults aged 18 years and older who have obesity †,24.1,37.63864012,-120.99999950000002
+14135,2013,CO,Colorado,Percent of adults aged 18 years and older who have obesity †,21.3,38.84384076,-106.13361090000002
+36723,2013,CT,Connecticut,Percent of adults aged 18 years and older who have obesity †,25.0,41.56266102,-72.64984095
+33869,2013,DE,Delaware,Percent of adults aged 18 years and older who have obesity †,31.1,39.00883067,-75.57774117
+33299,2013,DC,District of Columbia,Percent of adults aged 18 years and older who have obesity †,22.9,38.89037139,-77.03196113
+22801,2013,FL,Florida,Percent of adults aged 18 years and older who have obesity †,26.4,28.93204038,-81.92896054
+25512,2013,GA,Georgia,Percent of adults aged 18 years and older who have obesity †,30.3,32.83968109,-83.62758035
+18253,2013,HI,Hawaii,Percent of adults aged 18 years and older who have obesity †,21.8,21.30485044,-157.8577494
+15357,2013,ID,Idaho,Percent of adults aged 18 years and older who have obesity †,29.6,43.68263001,-114.36373
+35200,2013,IL,Illinois,Percent of adults aged 18 years and older who have obesity †,29.4,40.48501028,-88.99771018
+39216,2013,IN,Indiana,Percent of adults aged 18 years and older who have obesity †,31.8,39.76691045,-86.14996019
+31207,2013,IA,Iowa,Percent of adults aged 18 years and older who have obesity †,31.3,42.46940091,-93.81649056
+10698,2013,KS,Kansas,Percent of adults aged 18 years and older who have obesity †,30.0,38.3477403,-98.20078123
+28619,2013,KY,Kentucky,Percent of adults aged 18 years and older who have obesity †,33.2,37.64597027,-84.77497105
+18723,2013,LA,Louisiana,Percent of adults aged 18 years and older who have obesity †,33.1,31.31266064,-92.44568007
+10701,2013,ME,Maine,Percent of adults aged 18 years and older who have obesity †,28.9,45.25422889,-68.98503134
+29760,2013,MD,Maryland,Percent of adults aged 18 years and older who have obesity †,28.3,39.29058096,-76.60926011
+31772,2013,MA,Massachusetts,Percent of adults aged 18 years and older who have obesity †,23.6,42.27687047,-72.08269068
+25983,2013,MI,Michigan,Percent of adults aged 18 years and older who have obesity †,31.5,44.66131954,-84.71439027
+23635,2013,MN,Minnesota,Percent of adults aged 18 years and older who have obesity †,25.5,46.35564874,-94.7942005
+14379,2013,MS,Mississippi,Percent of adults aged 18 years and older who have obesity †,35.1,32.745510100000004,-89.53803083
+38135,2013,MO,Missouri,Percent of adults aged 18 years and older who have obesity †,30.4,38.63579078,-92.56630005
+10860,2013,MT,Montana,Percent of adults aged 18 years and older who have obesity †,24.6,47.06652897,-109.4244206
+20327,2013,NE,Nebraska,Percent of adults aged 18 years and older who have obesity †,29.6,41.64104099,-99.36572062
+25095,2013,NV,Nevada,Percent of adults aged 18 years and older who have obesity †,26.2,39.49324039,-117.0718406
+9652,2013,NH,New Hampshire,Percent of adults aged 18 years and older who have obesity †,26.7,43.65595011,-71.50036092
+27917,2013,NJ,New Jersey,Percent of adults aged 18 years and older who have obesity †,26.3,40.13057005,-74.27369129
+11380,2013,NM,New Mexico,Percent of adults aged 18 years and older who have obesity †,26.4,34.52088095,-106.240581
+1655,2013,NY,New York,Percent of adults aged 18 years and older who have obesity †,25.4,42.82700103,-75.54397043
+15427,2013,NC,North Carolina,Percent of adults aged 18 years and older who have obesity †,29.4,35.46622098,-79.15925046
+1214,2013,ND,North Dakota,Percent of adults aged 18 years and older who have obesity †,31.0,47.47531978,-100.118421
+30936,2013,OH,Ohio,Percent of adults aged 18 years and older who have obesity †,30.4,40.06021014,-82.40426006
+25477,2013,OK,Oklahoma,Percent of adults aged 18 years and older who have obesity †,32.5,35.47203136,-97.52107021
+24268,2013,OR,Oregon,Percent of adults aged 18 years and older who have obesity †,26.5,44.56744942,-120.1550313
+8072,2013,PA,Pennsylvania,Percent of adults aged 18 years and older who have obesity †,30.0,40.79373015,-77.86070029
+25407,2013,RI,Rhode Island,Percent of adults aged 18 years and older who have obesity †,27.3,41.70828019,-71.52247031
+30860,2013,SC,South Carolina,Percent of adults aged 18 years and older who have obesity †,31.7,33.998821299999996,-81.04537121
+34351,2013,SD,South Dakota,Percent of adults aged 18 years and older who have obesity †,29.9,44.35313005,-100.3735306
+27825,2013,TN,Tennessee,Percent of adults aged 18 years and older who have obesity †,33.7,35.68094058,-85.77449091
+39331,2013,TX,Texas,Percent of adults aged 18 years and older who have obesity †,30.9,31.82724041,-99.42677021
+10536,2013,UT,Utah,Percent of adults aged 18 years and older who have obesity †,24.1,39.36070017,-111.58713059999998
+14273,2013,VT,Vermont,Percent of adults aged 18 years and older who have obesity †,24.7,43.62538124,-72.51764079
+31418,2013,VA,Virginia,Percent of adults aged 18 years and older who have obesity †,27.2,37.54268067,-78.45789046
+16463,2013,WA,Washington,Percent of adults aged 18 years and older who have obesity †,27.2,47.52227863,-120.4700108
+14310,2013,WV,West Virginia,Percent of adults aged 18 years and older who have obesity †,35.1,38.6655102,-80.71264014
+4120,2013,WI,Wisconsin,Percent of adults aged 18 years and older who have obesity †,29.8,44.39319117,-89.81637074
+12908,2013,WY,Wyoming,Percent of adults aged 18 years and older who have obesity †,27.8,43.23554134,-108.1098304
+1940,2013,PR,Puerto Rico,Percent of adults aged 18 years and older who have obesity †,27.9,18.220833,-66.590149
+568,2014,US,National,Percent of adults aged 18 years and older who have obesity †,28.9,,
+14460,2014,AL,Alabama,Percent of adults aged 18 years and older who have obesity †,33.5,32.84057112,-86.63186076
+31956,2014,AK,Alaska,Percent of adults aged 18 years and older who have obesity †,29.7,64.84507996,-147.722059
+18116,2014,AZ,Arizona,Percent of adults aged 18 years and older who have obesity †,28.9,34.86597028,-111.76381129999999
+27663,2014,AR,Arkansas,Percent of adults aged 18 years and older who have obesity †,35.9,34.74865012,-92.27449074
+3227,2014,CA,California,Percent of adults aged 18 years and older who have obesity †,24.7,37.63864012,-120.99999950000002
+12990,2014,CO,Colorado,Percent of adults aged 18 years and older who have obesity †,21.3,38.84384076,-106.13361090000002
+7748,2014,CT,Connecticut,Percent of adults aged 18 years and older who have obesity †,26.3,41.56266102,-72.64984095
+18338,2014,DE,Delaware,Percent of adults aged 18 years and older who have obesity †,30.7,39.00883067,-75.57774117
+22131,2014,DC,District of Columbia,Percent of adults aged 18 years and older who have obesity †,21.7,38.89037139,-77.03196113
+37846,2014,FL,Florida,Percent of adults aged 18 years and older who have obesity †,26.2,28.93204038,-81.92896054
+36843,2014,GA,Georgia,Percent of adults aged 18 years and older who have obesity †,30.5,32.83968109,-83.62758035
+36547,2014,HI,Hawaii,Percent of adults aged 18 years and older who have obesity †,22.1,21.30485044,-157.8577494
+11021,2014,ID,Idaho,Percent of adults aged 18 years and older who have obesity †,28.9,43.68263001,-114.36373
+21804,2014,IL,Illinois,Percent of adults aged 18 years and older who have obesity †,29.3,40.48501028,-88.99771018
+17520,2014,IN,Indiana,Percent of adults aged 18 years and older who have obesity †,32.7,39.76691045,-86.14996019
+5939,2014,IA,Iowa,Percent of adults aged 18 years and older who have obesity †,30.9,42.46940091,-93.81649056
+16198,2014,KS,Kansas,Percent of adults aged 18 years and older who have obesity †,31.3,38.3477403,-98.20078123
+29807,2014,KY,Kentucky,Percent of adults aged 18 years and older who have obesity †,31.6,37.64597027,-84.77497105
+10841,2014,LA,Louisiana,Percent of adults aged 18 years and older who have obesity †,34.9,31.31266064,-92.44568007
+3039,2014,ME,Maine,Percent of adults aged 18 years and older who have obesity †,28.2,45.25422889,-68.98503134
+20586,2014,MD,Maryland,Percent of adults aged 18 years and older who have obesity †,29.6,39.29058096,-76.60926011
+33862,2014,MA,Massachusetts,Percent of adults aged 18 years and older who have obesity †,23.3,42.27687047,-72.08269068
+19091,2014,MI,Michigan,Percent of adults aged 18 years and older who have obesity †,30.7,44.66131954,-84.71439027
+33058,2014,MN,Minnesota,Percent of adults aged 18 years and older who have obesity †,27.6,46.35564874,-94.7942005
+7453,2014,MS,Mississippi,Percent of adults aged 18 years and older who have obesity †,35.5,32.745510100000004,-89.53803083
+7101,2014,MO,Missouri,Percent of adults aged 18 years and older who have obesity †,30.2,38.63579078,-92.56630005
+28157,2014,MT,Montana,Percent of adults aged 18 years and older who have obesity †,26.4,47.06652897,-109.4244206
+33831,2014,NE,Nebraska,Percent of adults aged 18 years and older who have obesity †,30.2,41.64104099,-99.36572062
+28150,2014,NV,Nevada,Percent of adults aged 18 years and older who have obesity †,27.7,39.49324039,-117.0718406
+29043,2014,NH,New Hampshire,Percent of adults aged 18 years and older who have obesity †,27.4,43.65595011,-71.50036092
+27214,2014,NJ,New Jersey,Percent of adults aged 18 years and older who have obesity †,26.9,40.13057005,-74.27369129
+31423,2014,NM,New Mexico,Percent of adults aged 18 years and older who have obesity †,28.4,34.52088095,-106.240581
+19120,2014,NY,New York,Percent of adults aged 18 years and older who have obesity †,27.0,42.82700103,-75.54397043
+17155,2014,NC,North Carolina,Percent of adults aged 18 years and older who have obesity †,29.7,35.46622098,-79.15925046
+2583,2014,ND,North Dakota,Percent of adults aged 18 years and older who have obesity †,32.2,47.47531978,-100.118421
+14307,2014,OH,Ohio,Percent of adults aged 18 years and older who have obesity †,32.6,40.06021014,-82.40426006
+9863,2014,OK,Oklahoma,Percent of adults aged 18 years and older who have obesity †,33.0,35.47203136,-97.52107021
+35279,2014,OR,Oregon,Percent of adults aged 18 years and older who have obesity †,27.9,44.56744942,-120.1550313
+36291,2014,PA,Pennsylvania,Percent of adults aged 18 years and older who have obesity †,30.2,40.79373015,-77.86070029
+4471,2014,RI,Rhode Island,Percent of adults aged 18 years and older who have obesity †,27.0,41.70828019,-71.52247031
+23707,2014,SC,South Carolina,Percent of adults aged 18 years and older who have obesity †,32.1,33.998821299999996,-81.04537121
+33096,2014,SD,South Dakota,Percent of adults aged 18 years and older who have obesity †,29.8,44.35313005,-100.3735306
+38602,2014,TN,Tennessee,Percent of adults aged 18 years and older who have obesity †,31.2,35.68094058,-85.77449091
+22945,2014,TX,Texas,Percent of adults aged 18 years and older who have obesity †,31.9,31.82724041,-99.42677021
+16442,2014,UT,Utah,Percent of adults aged 18 years and older who have obesity †,25.7,39.36070017,-111.58713059999998
+28229,2014,VT,Vermont,Percent of adults aged 18 years and older who have obesity †,24.8,43.62538124,-72.51764079
+2521,2014,VA,Virginia,Percent of adults aged 18 years and older who have obesity †,28.5,37.54268067,-78.45789046
+33708,2014,WA,Washington,Percent of adults aged 18 years and older who have obesity †,27.3,47.52227863,-120.4700108
+24792,2014,WV,West Virginia,Percent of adults aged 18 years and older who have obesity †,35.7,38.6655102,-80.71264014
+5752,2014,WI,Wisconsin,Percent of adults aged 18 years and older who have obesity †,31.2,44.39319117,-89.81637074
+28136,2014,WY,Wyoming,Percent of adults aged 18 years and older who have obesity †,29.5,43.23554134,-108.1098304
+1028,2014,GU,Guam,Percent of adults aged 18 years and older who have obesity †,28.0,13.444304,144.793731
+1360,2014,PR,Puerto Rico,Percent of adults aged 18 years and older who have obesity †,28.3,18.220833,-66.590149
+625,2015,US,National,Percent of adults aged 18 years and older who have obesity †,28.9,,
+5705,2015,AL,Alabama,Percent of adults aged 18 years and older who have obesity †,35.6,32.84057112,-86.63186076
+9467,2015,AK,Alaska,Percent of adults aged 18 years and older who have obesity †,29.8,64.84507996,-147.722059
+30023,2015,AZ,Arizona,Percent of adults aged 18 years and older who have obesity †,28.4,34.86597028,-111.76381129999999
+9837,2015,AR,Arkansas,Percent of adults aged 18 years and older who have obesity †,34.5,34.74865012,-92.27449074
+14086,2015,CA,California,Percent of adults aged 18 years and older who have obesity †,24.2,37.63864012,-120.99999950000002
+17594,2015,CO,Colorado,Percent of adults aged 18 years and older who have obesity †,20.2,38.84384076,-106.13361090000002
+21386,2015,CT,Connecticut,Percent of adults aged 18 years and older who have obesity †,25.3,41.56266102,-72.64984095
+36511,2015,DE,Delaware,Percent of adults aged 18 years and older who have obesity †,29.7,39.00883067,-75.57774117
+17616,2015,DC,District of Columbia,Percent of adults aged 18 years and older who have obesity †,22.1,38.89037139,-77.03196113
+9798,2015,FL,Florida,Percent of adults aged 18 years and older who have obesity †,26.8,28.93204038,-81.92896054
+19489,2015,GA,Georgia,Percent of adults aged 18 years and older who have obesity †,30.7,32.83968109,-83.62758035
+21984,2015,HI,Hawaii,Percent of adults aged 18 years and older who have obesity †,22.7,21.30485044,-157.8577494
+8637,2015,ID,Idaho,Percent of adults aged 18 years and older who have obesity †,28.6,43.68263001,-114.36373
+11851,2015,IL,Illinois,Percent of adults aged 18 years and older who have obesity †,30.8,40.48501028,-88.99771018
+30763,2015,IN,Indiana,Percent of adults aged 18 years and older who have obesity †,31.3,39.76691045,-86.14996019
+4511,2015,IA,Iowa,Percent of adults aged 18 years and older who have obesity †,32.1,42.46940091,-93.81649056
+30741,2015,KS,Kansas,Percent of adults aged 18 years and older who have obesity †,34.2,38.3477403,-98.20078123
+37558,2015,KY,Kentucky,Percent of adults aged 18 years and older who have obesity †,34.6,37.64597027,-84.77497105
+33631,2015,LA,Louisiana,Percent of adults aged 18 years and older who have obesity †,36.2,31.31266064,-92.44568007
+16964,2015,ME,Maine,Percent of adults aged 18 years and older who have obesity †,30.0,45.25422889,-68.98503134
+38584,2015,MD,Maryland,Percent of adults aged 18 years and older who have obesity †,28.9,39.29058096,-76.60926011
+12596,2015,MA,Massachusetts,Percent of adults aged 18 years and older who have obesity †,24.3,42.27687047,-72.08269068
+30528,2015,MI,Michigan,Percent of adults aged 18 years and older who have obesity †,31.2,44.66131954,-84.71439027
+23220,2015,MN,Minnesota,Percent of adults aged 18 years and older who have obesity †,26.1,46.35564874,-94.7942005
+11557,2015,MS,Mississippi,Percent of adults aged 18 years and older who have obesity †,35.6,32.745510100000004,-89.53803083
+32850,2015,MO,Missouri,Percent of adults aged 18 years and older who have obesity †,32.4,38.63579078,-92.56630005
+35051,2015,MT,Montana,Percent of adults aged 18 years and older who have obesity †,23.6,47.06652897,-109.4244206
+25863,2015,NE,Nebraska,Percent of adults aged 18 years and older who have obesity †,31.4,41.64104099,-99.36572062
+5164,2015,NV,Nevada,Percent of adults aged 18 years and older who have obesity †,26.7,39.49324039,-117.0718406
+8695,2015,NH,New Hampshire,Percent of adults aged 18 years and older who have obesity †,26.3,43.65595011,-71.50036092
+34945,2015,NJ,New Jersey,Percent of adults aged 18 years and older who have obesity †,25.6,40.13057005,-74.27369129
+17759,2015,NM,New Mexico,Percent of adults aged 18 years and older who have obesity †,28.8,34.52088095,-106.240581
+21989,2015,NY,New York,Percent of adults aged 18 years and older who have obesity †,25.0,42.82700103,-75.54397043
+17599,2015,NC,North Carolina,Percent of adults aged 18 years and older who have obesity †,30.1,35.46622098,-79.15925046
+36838,2015,ND,North Dakota,Percent of adults aged 18 years and older who have obesity †,31.0,47.47531978,-100.118421
+10693,2015,OH,Ohio,Percent of adults aged 18 years and older who have obesity †,29.8,40.06021014,-82.40426006
+15434,2015,OK,Oklahoma,Percent of adults aged 18 years and older who have obesity †,33.9,35.47203136,-97.52107021
+3083,2015,OR,Oregon,Percent of adults aged 18 years and older who have obesity †,30.1,44.56744942,-120.1550313
+8891,2015,PA,Pennsylvania,Percent of adults aged 18 years and older who have obesity †,30.0,40.79373015,-77.86070029
+33725,2015,RI,Rhode Island,Percent of adults aged 18 years and older who have obesity †,26.0,41.70828019,-71.52247031
+4156,2015,SC,South Carolina,Percent of adults aged 18 years and older who have obesity †,31.7,33.998821299999996,-81.04537121
+23036,2015,SD,South Dakota,Percent of adults aged 18 years and older who have obesity †,30.4,44.35313005,-100.3735306
+30967,2015,TN,Tennessee,Percent of adults aged 18 years and older who have obesity †,33.8,35.68094058,-85.77449091
+33374,2015,TX,Texas,Percent of adults aged 18 years and older who have obesity †,32.4,31.82724041,-99.42677021
+24208,2015,UT,Utah,Percent of adults aged 18 years and older who have obesity †,24.5,39.36070017,-111.58713059999998
+23683,2015,VT,Vermont,Percent of adults aged 18 years and older who have obesity †,25.1,43.62538124,-72.51764079
+17900,2015,VA,Virginia,Percent of adults aged 18 years and older who have obesity †,29.2,37.54268067,-78.45789046
+16130,2015,WA,Washington,Percent of adults aged 18 years and older who have obesity †,26.4,47.52227863,-120.4700108
+16044,2015,WV,West Virginia,Percent of adults aged 18 years and older who have obesity †,35.6,38.6655102,-80.71264014
+21766,2015,WI,Wisconsin,Percent of adults aged 18 years and older who have obesity †,30.7,44.39319117,-89.81637074
+9531,2015,WY,Wyoming,Percent of adults aged 18 years and older who have obesity †,29.0,43.23554134,-108.1098304
+1162,2015,GU,Guam,Percent of adults aged 18 years and older who have obesity †,31.6,13.444304,144.793731
+867,2015,PR,Puerto Rico,Percent of adults aged 18 years and older who have obesity †,29.5,18.220833,-66.590149
+41733,2016,US,National,Percent of adults aged 18 years and older who have obesity †,29.6,,
+42515,2016,AL,Alabama,Percent of adults aged 18 years and older who have obesity †,35.7,32.84057112,-86.63186076
+43135,2016,AK,Alaska,Percent of adults aged 18 years and older who have obesity †,31.4,64.84507996,-147.722059
+43721,2016,AZ,Arizona,Percent of adults aged 18 years and older who have obesity †,29.0,34.86597028,-111.76381129999999
+42609,2016,AR,Arkansas,Percent of adults aged 18 years and older who have obesity †,35.7,34.74865012,-92.27449074
+40299,2016,CA,California,Percent of adults aged 18 years and older who have obesity †,25.0,37.63864012,-120.99999950000002
+42831,2016,CO,Colorado,Percent of adults aged 18 years and older who have obesity †,22.3,38.84384076,-106.13361090000002
+41035,2016,CT,Connecticut,Percent of adults aged 18 years and older who have obesity †,26.0,41.56266102,-72.64984095
+40088,2016,DE,Delaware,Percent of adults aged 18 years and older who have obesity †,30.7,39.00883067,-75.57774117
+42767,2016,DC,District of Columbia,Percent of adults aged 18 years and older who have obesity †,22.6,38.89037139,-77.03196113
+40022,2016,FL,Florida,Percent of adults aged 18 years and older who have obesity †,27.4,28.93204038,-81.92896054
+42149,2016,GA,Georgia,Percent of adults aged 18 years and older who have obesity †,31.4,32.83968109,-83.62758035
+40414,2016,HI,Hawaii,Percent of adults aged 18 years and older who have obesity †,23.8,21.30485044,-157.8577494
+40744,2016,ID,Idaho,Percent of adults aged 18 years and older who have obesity †,27.4,43.68263001,-114.36373
+40778,2016,IL,Illinois,Percent of adults aged 18 years and older who have obesity †,31.6,40.48501028,-88.99771018
+40743,2016,IN,Indiana,Percent of adults aged 18 years and older who have obesity †,32.5,39.76691045,-86.14996019
+42363,2016,IA,Iowa,Percent of adults aged 18 years and older who have obesity †,32.0,42.46940091,-93.81649056
+40020,2016,KS,Kansas,Percent of adults aged 18 years and older who have obesity †,31.2,38.3477403,-98.20078123
+42035,2016,KY,Kentucky,Percent of adults aged 18 years and older who have obesity †,34.2,37.64597027,-84.77497105
+42871,2016,LA,Louisiana,Percent of adults aged 18 years and older who have obesity †,35.5,31.31266064,-92.44568007
+43974,2016,ME,Maine,Percent of adults aged 18 years and older who have obesity †,29.9,45.25422889,-68.98503134
+40776,2016,MD,Maryland,Percent of adults aged 18 years and older who have obesity †,29.9,39.29058096,-76.60926011
+41018,2016,MA,Massachusetts,Percent of adults aged 18 years and older who have obesity †,23.6,42.27687047,-72.08269068
+43809,2016,MI,Michigan,Percent of adults aged 18 years and older who have obesity †,32.5,44.66131954,-84.71439027
+43534,2016,MN,Minnesota,Percent of adults aged 18 years and older who have obesity †,27.8,46.35564874,-94.7942005
+41739,2016,MS,Mississippi,Percent of adults aged 18 years and older who have obesity †,37.3,32.745510100000004,-89.53803083
+42691,2016,MO,Missouri,Percent of adults aged 18 years and older who have obesity †,31.7,38.63579078,-92.56630005
+39778,2016,MT,Montana,Percent of adults aged 18 years and older who have obesity †,25.5,47.06652897,-109.4244206
+42453,2016,NE,Nebraska,Percent of adults aged 18 years and older who have obesity †,32.0,41.64104099,-99.36572062
+41673,2016,NV,Nevada,Percent of adults aged 18 years and older who have obesity †,25.8,39.49324039,-117.0718406
+39958,2016,NH,New Hampshire,Percent of adults aged 18 years and older who have obesity †,26.6,43.65595011,-71.50036092
+41343,2016,NJ,New Jersey,Percent of adults aged 18 years and older who have obesity †,27.4,40.13057005,-74.27369129
+39697,2016,NM,New Mexico,Percent of adults aged 18 years and older who have obesity †,28.3,34.52088095,-106.240581
+41390,2016,NY,New York,Percent of adults aged 18 years and older who have obesity †,25.5,42.82700103,-75.54397043
+43965,2016,NC,North Carolina,Percent of adults aged 18 years and older who have obesity †,31.8,35.46622098,-79.15925046
+43658,2016,ND,North Dakota,Percent of adults aged 18 years and older who have obesity †,31.9,47.47531978,-100.118421
+41957,2016,OH,Ohio,Percent of adults aged 18 years and older who have obesity †,31.5,40.06021014,-82.40426006
+43333,2016,OK,Oklahoma,Percent of adults aged 18 years and older who have obesity †,32.8,35.47203136,-97.52107021
+42577,2016,OR,Oregon,Percent of adults aged 18 years and older who have obesity †,28.7,44.56744942,-120.1550313
+40959,2016,PA,Pennsylvania,Percent of adults aged 18 years and older who have obesity †,30.3,40.79373015,-77.86070029
+40817,2016,RI,Rhode Island,Percent of adults aged 18 years and older who have obesity †,26.6,41.70828019,-71.52247031
+39724,2016,SC,South Carolina,Percent of adults aged 18 years and older who have obesity †,32.3,33.998821299999996,-81.04537121
+42607,2016,SD,South Dakota,Percent of adults aged 18 years and older who have obesity †,29.6,44.35313005,-100.3735306
+41183,2016,TN,Tennessee,Percent of adults aged 18 years and older who have obesity †,34.8,35.68094058,-85.77449091
+40573,2016,TX,Texas,Percent of adults aged 18 years and older who have obesity †,33.7,31.82724041,-99.42677021
+41576,2016,UT,Utah,Percent of adults aged 18 years and older who have obesity †,25.4,39.36070017,-111.58713059999998
+41830,2016,VT,Vermont,Percent of adults aged 18 years and older who have obesity †,27.1,43.62538124,-72.51764079
+42004,2016,VA,Virginia,Percent of adults aged 18 years and older who have obesity †,29.0,37.54268067,-78.45789046
+41573,2016,WA,Washington,Percent of adults aged 18 years and older who have obesity †,28.6,47.52227863,-120.4700108
+43122,2016,WV,West Virginia,Percent of adults aged 18 years and older who have obesity †,37.7,38.6655102,-80.71264014
+39613,2016,WI,Wisconsin,Percent of adults aged 18 years and older who have obesity †,30.7,44.39319117,-89.81637074
+42506,2016,WY,Wyoming,Percent of adults aged 18 years and older who have obesity †,27.7,43.23554134,-108.1098304
+42872,2016,GU,Guam,Percent of adults aged 18 years and older who have obesity †,28.3,13.444304,144.793731
+44259,2016,PR,Puerto Rico,Percent of adults aged 18 years and older who have obesity †,30.7,18.220833,-66.590149
+44092,2016,VI,Virgin Islands,Percent of adults aged 18 years and older who have obesity †,32.5,18.335765,-64.896335

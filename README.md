@@ -7,10 +7,11 @@ Diabetes is a disease that occurs when your blood glucose, also called blood sug
 * Has Diabetes % Increased over time in the US
 * Has Obesity % Increaed over time in the US
 * What are the top 10 states with Diabetes/Obesity
-* What are the bottom 10 staes with Diabetes/obesity
+* What are the bottom 10 states with Diabetes/Obesity
 * Do States with higher Diabetes %  also have Higher Obesity %
 
 ## Process
+
 
 
 
