@@ -10,5 +10,7 @@ Diabetes is a disease that occurs when your blood glucose, also called blood sug
 * What are the bottom 10 staes with Diabetes/obesity
 * Do States with higher Diabetes %  also have Higher Obesity %
 
+## Process
+
 
 
