@@ -16,7 +16,7 @@ For Obesity dataset I used 6 difffent csv files from 2011-2016 downloaded from t
 For Diabetes dataset I used 6 diffrent csv files files from 2011-2016 downloaded from the CDC website
 
 ### Data Cleaning
-For data cleaning I used Jupyter Notebook
+I used Jupyter Notebook to concate the difffent csv files into one csv file and data cleaning
 ```python
 # Dependencies
 import pandas as pd
@@ -27,6 +27,15 @@ obesity_files = sorted(glob('Resources/*-Obesity.csv'))
 obesity_files
 ```
 ![Img from file](Images/output1.png)
+
+```python
+obesity_2011_to_2016 = pd.concat((pd.read_csv(file).assign(filename = file)
+          for file in obesity_files), ignore_index = True)
+obesity_2011_to_2016.head()
+```
+![Img from file](Images/output2.png)
+
+
 
 
 
