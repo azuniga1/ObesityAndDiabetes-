@@ -44,6 +44,10 @@ obesity_2011_to_2016.head()
 
 
 ### Visualization
+I used Tableau to visualize my findings
+
+Map of Diabetes & Obesity in 2016
+
 
 
 
