@@ -52,8 +52,7 @@ Map of Diabetes & Obesity in 2016
 
 ![Img from file](Images/ObesityMap.png)
 
-Image of Dashbord 
-![Img from file](Images/Dashboard.png)
+
 
 
 
