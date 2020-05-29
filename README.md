@@ -65,6 +65,7 @@ Map of Diabetes & Obesity in 2016
 * What are the top 5 states with Diabetes/Obesity
     <br>
     In 2016 the top 5 states<br>
+    <br>
     Diabetes:<br>
     1. Alabama 13.2%<br>
     2. West Virginia 12.7%<br>
