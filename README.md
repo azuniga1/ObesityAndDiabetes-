@@ -83,8 +83,26 @@ Map of Diabetes & Obesity in 2016
     5. Lousisian 34.8%<br>
     <br>
 * What are the bottom 5 states with Diabetes/Obesity
-* Do States with higher Diabetes Rates  also have Higher Obesity Rates
+ <br>
+    In 2016 the bottom 5 states<br>
+    <br>
+    Diabetes:<br>
+    1. Colorado 6.2%<br>
+    2. Montana 6.9%<br>
+    3. South Dakota 6.9%<br>
+    4. Vermont 7.3%<br>
+    5. Minnesota 7.6%<br>
+    <br>
+    Obesity:<br>
+    1. Colorado 22.3%<br>
+    2. Massachusetts 23.6%<br>
+    3. Hawaii 23.8%<br>
+    4. California 25.0%<br>
+    5. Utah 25.40%<br>
+    <br>
 
+* Do States with higher Diabetes Rates  also have Higher Obesity Rates
+   Overal there dose some to be a correaltion between states that have high rates of Diabetes,  also have higher obesity rates
 
 
 
