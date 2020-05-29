@@ -6,8 +6,8 @@ Diabetes is a disease that occurs when your blood glucose, also called blood sug
 ## Research done to Answer the following questions:
 * Has Diabetes % Increased in the US 
 * Has Obesity % Increaed in the US
-* What are the top 10 states with Diabetes/Obesity
-* What are the bottom 10 states with Diabetes/Obesity
+* What are the top 5 states with Diabetes/Obesity
+* What are the bottom 5 states with Diabetes/Obesity
 * Do States with higher Diabetes Rates  also have Higher Obesity Rates
 
 ## Technology used
@@ -56,7 +56,12 @@ Map of Diabetes & Obesity in 2016
 
 
 ### 3. Conclusion
-
+* Has Diabetes % Increased in the US 
+    From 2011-2016 Diabetes has increase from 8.4% to 8.5% 
+* Has Obesity % Increaed in the US
+* What are the top 5 states with Diabetes/Obesity
+* What are the bottom 5 states with Diabetes/Obesity
+* Do States with higher Diabetes Rates  also have Higher Obesity Rates
 
 
 
