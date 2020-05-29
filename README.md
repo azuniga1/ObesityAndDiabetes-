@@ -21,7 +21,7 @@ Diabetes is a disease that occurs when your blood glucose, also called blood sug
 For Obesity dataset I used 6 difffent csv files from 2011-2016 downloaded from the CDC website\
 For Diabetes dataset I used 6 diffrent csv files files from 2011-2016 downloaded from the CDC website
 
-### Data Cleaning
+### 1. Data Cleaning
 I used Jupyter Notebook to concate the difffent csv files into one csv file and data cleaning
 ```python
 # Dependencies
@@ -43,7 +43,7 @@ obesity_2011_to_2016.head()
 ![Img from file](Images/output2.png)
 
 
-### Visualization
+### 2. Visualization
 I used Tableau to visualize my findings
 
 Map of Diabetes & Obesity in 2016
@@ -54,6 +54,8 @@ Map of Diabetes & Obesity in 2016
 
 [Tableau DashBoard](https://public.tableau.com/views/USADiabetesObesity2011-2016/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link)
 
+
+### 3. Conclusion
 
 
 
