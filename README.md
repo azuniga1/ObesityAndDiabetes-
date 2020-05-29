@@ -64,9 +64,9 @@ Map of Diabetes & Obesity in 2016
     <br>
 * What are the top 5 states with Diabetes/Obesity
     <br>
-    In 2016 the top 5 states
+    In 2016 the top 5 states<br>
     Diabetes               Obesity 
-    
+
 * What are the bottom 5 states with Diabetes/Obesity
 * Do States with higher Diabetes Rates  also have Higher Obesity Rates
 
