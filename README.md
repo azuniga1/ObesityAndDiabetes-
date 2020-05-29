@@ -102,6 +102,7 @@ Map of Diabetes & Obesity in 2016
     <br>
 
 * Do States with higher Diabetes Rates  also have Higher Obesity Rates
+<br>
    Overal there dose some to be a correaltion between states that have high rates of Diabetes,  also have higher obesity rates
 
 
