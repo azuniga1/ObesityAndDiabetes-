@@ -48,6 +48,7 @@ I used Tableau to visualize my findings
 
 Map of Diabetes & Obesity in 2016
 
+![Img from file](Images/DiabetesMap.png)
 
 
 
