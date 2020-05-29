@@ -66,11 +66,18 @@ Map of Diabetes & Obesity in 2016
     <br>
     In 2016 the top 5 states<br>
     Diabetes:<br>
-    1. Alabama<br>
-    2. West Virginia<br>
-    3. Mississippi<br>
-    4. Arkansas<br>
-    5. Kentucky<br>
+    1. Alabama 13.2%<br>
+    2. West Virginia 12.7%<br>
+    3. Mississippi 12.14%<br>
+    4. Arkansas 12.1%<br>
+    5. Kentucky 11.8%<br>
+    <br>
+    Obesity:<br>
+    1. West Virginia 37.7%<br>
+    2. Mississippi 37.3%<br>
+    3. Arkansas 35.7%<br>
+    4. Alabama 35.7%<br>
+    5. Lousisian 34.8%<br>
     <br>
 * What are the bottom 5 states with Diabetes/Obesity
 * Do States with higher Diabetes Rates  also have Higher Obesity Rates
