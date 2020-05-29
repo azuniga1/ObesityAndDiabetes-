@@ -61,7 +61,12 @@ Map of Diabetes & Obesity in 2016
     <br>
 * Has Obesity % Increaed in the US
     <br>From 2011-2016 Obesity has increased from 27.4% to 29.6%
+    <br>
 * What are the top 5 states with Diabetes/Obesity
+    <br>
+    In 2016 the top 5 states
+    Diabetes               Obesity 
+    
 * What are the bottom 5 states with Diabetes/Obesity
 * Do States with higher Diabetes Rates  also have Higher Obesity Rates
 
